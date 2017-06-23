@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 447.8 574" style="enable-background:new 0 0 447.8 574;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;stroke-width:0.18;stroke-miterlimit:10;}
+</style>
+<g id="back">
+	
+		<rect x="203.6" y="319.2" transform="matrix(4.488682e-11 -1 1 4.488682e-11 -91.5591 555.3858)" class="st0" width="56.7" height="8.5"/>
+	
+		<rect x="203.6" y="205.8" transform="matrix(4.488682e-11 -1 1 4.488682e-11 21.8268 442)" class="st0" width="56.7" height="8.5"/>
+	
+		<rect x="203.6" y="92.4" transform="matrix(4.488682e-11 -1 1 4.488682e-11 135.2126 328.6142)" class="st0" width="56.7" height="8.5"/>
+	<circle id="Clearance_hole_13_" class="st0" cx="231.9" cy="154.4" r="4.3"/>
+	<circle id="Clearance_hole_12_" class="st0" cx="231.9" cy="267.8" r="4.3"/>
+	<rect x="219.5" y="11.5" class="st0" width="44" height="397"/>
+</g>
+<g id="Left_panel">
+	<polygon id="Left_panel_1_" class="st0" points="203.5,149.5 203.5,124.5 211.5,124.5 211.5,67.5 203.5,67.5 203.5,28.5 
+		146.5,28.5 146.5,19.5 89.5,19.5 89.5,28.5 33.5,28.5 33.5,67.5 24.5,67.5 24.5,124.5 33.5,124.5 33.5,149.5 42.5,149.5 
+		42.5,143.5 48.5,143.5 48.5,149.5 53.5,149.5 53.5,157.5 48.5,157.5 48.5,163.5 42.5,163.5 42.5,157.5 33.5,157.5 33.5,181.5 
+		24.5,181.5 24.5,237.5 33.5,237.5 33.5,263.5 42.5,263.5 42.5,257.5 48.5,257.5 48.5,263.5 53.5,263.5 53.5,271.5 48.5,271.5 
+		48.5,277.5 42.5,277.5 42.5,271.5 33.5,271.5 33.5,294.5 24.5,294.5 24.5,351.5 33.5,351.5 33.5,390.5 89.5,390.5 89.5,399.5 
+		146.5,399.5 146.5,390.5 203.5,390.5 203.5,351.5 211.5,351.5 211.5,294.5 203.5,294.5 203.5,271.5 194.5,271.5 194.5,277.5 
+		188.5,277.5 188.5,271.5 183.5,271.5 183.5,263.5 188.5,263.5 188.5,257.5 194.5,257.5 194.5,263.5 203.5,263.5 203.5,237.5 
+		211.5,237.5 211.5,181.5 203.5,181.5 203.5,157.5 194.5,157.5 194.5,163.5 188.5,163.5 188.5,157.5 183.5,157.5 183.5,149.5 
+		188.5,149.5 188.5,143.5 194.5,143.5 194.5,149.5 	"/>
+	<circle id="Button_cutout_3_" class="st0" cx="88" cy="93" r="39.7"/>
+	<ellipse id="potentiometer_1_" class="st0" cx="167.5" cy="93.4" rx="10.7" ry="10.6"/>
+	<ellipse id="potentiometer_2_" class="st0" cx="87.5" cy="93.4" rx="10.7" ry="10.6"/>
+	<circle id="pot_guide" class="st0" cx="65.4" cy="93.4" r="4.3"/>
+	<circle class="st0" cx="88.5" cy="380.8" r="2.8"/>
+	<circle class="st0" cx="88.5" cy="298.6" r="2.8"/>
+	
+		<rect id="USB_panel_mount_1_" x="55.9" y="319.9" transform="matrix(4.489126e-11 -1 1 4.489126e-11 -251.2441 428.2441)" class="st0" width="65.2" height="39.7"/>
+	<circle class="st0" cx="88.5" cy="245.8" r="2.8"/>
+	<circle class="st0" cx="88.5" cy="172.1" r="2.8"/>
+	
+		<rect id="Ethernet_panel_mount_1_" x="57.3" y="177.7" transform="matrix(4.491880e-11 -1 1 4.491880e-11 -120.4252 297.4252)" class="st0" width="62.4" height="62.4"/>
+</g>
+</svg>
